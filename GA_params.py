@@ -1,5 +1,6 @@
 """ Parameters for GA """
 
+objective_fname = "mof_objective.csv"
 tobacco_path = '#ABS/PATH/TO/tobacco'
 n_mof_per_generation = 200
 """ Ranking Selection parameters"""
