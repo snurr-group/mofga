@@ -3,7 +3,7 @@
 Genetic Algorithms Implementation in Metal-Organic Frameworks
 
 # Overview
-mofga is a python module to perform genetic algorithms to optimize metal-organic framework (MOF)'s building blocks (including topology, organic linker and metal node). mofga was tested on optimizing MOFs for CO\_2 capture
+mofga is a python module to perform genetic algorithms to optimize metal-organic framework (MOF)'s building blocks (including topology, organic linker and metal node). mofga was tested on optimizing MOFs for CO$_2$ capture
 
 Initial solutions are created using Latin Hypercube sampling, modified from skopt library. Through ranking selection methods, top-performing MOFs are kept, or used as parents for new solutions. To create new solutions, genetic operators, including crossover and mutation, are used. 
 
