@@ -3,7 +3,7 @@
 Genetic Algorithms Implementation in Metal-Organic Frameworks
 
 # Overview
-GA_MOF is a python module to perform genetic algorithms search to optimize MOFs. In GA_MOF, initial solutions are created using Latin Hypercube sampling, partially derived from skopt library (citation). Through ranking selection methods, top-performing MOFs are kept, or used as parents for new solutions. To create new solutions, genetic operators, including crossover and mutation, are used. 
+mofga is a python module to perform genetic algorithms search to optimize metal-organic framework building blocks (including topology, organic linker and metal node). Initial solutions are created using Latin Hypercube sampling, partially derived from skopt library. Through ranking selection methods, top-performing MOFs are kept, or used as parents for new solutions. To create new solutions, genetic operators, including crossover and mutation, are used. 
 
 # Installation and Dependencies
 
