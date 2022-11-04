@@ -3,7 +3,9 @@
 Genetic Algorithms Implementation in Metal-Organic Frameworks
 
 # Overview
-mofga is a python module to perform genetic algorithms search to optimize metal-organic framework building blocks (including topology, organic linker and metal node). Initial solutions are created using Latin Hypercube sampling, partially derived from skopt library. Through ranking selection methods, top-performing MOFs are kept, or used as parents for new solutions. To create new solutions, genetic operators, including crossover and mutation, are used. 
+mofga is a python module to perform genetic algorithms to optimize metal-organic framework (MOF)'s building blocks (including topology, organic linker and metal node). mofga was tested on optimizing MOFs for CO\_2 capture
+
+Initial solutions are created using Latin Hypercube sampling, modified from skopt library. Through ranking selection methods, top-performing MOFs are kept, or used as parents for new solutions. To create new solutions, genetic operators, including crossover and mutation, are used. 
 
 # Installation and Dependencies
 
@@ -23,8 +25,6 @@ conda activate MOFGA
 conda install -c conda-forge scikit-optimize networkx=2.2
 ```
 Note: networkx is the prerequisite of ToBaCCo. We tested ToBaCCo 3.0 using networkx version 2.2. Other versions of networkx maybe compatible with ToBaCCo (see [ToBaCCo 3.0](https://github.com/tobacco-mofs/tobacco_3.0) for more details)
-
-Once MOFGA environment is setup, you can clone or download MOFGA to use.
 
 # What is in MOFGA?
 Important components of MOFGA are listed here. For more details, please read the included manual.pdf
