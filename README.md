@@ -41,7 +41,10 @@ This will run GA using the parameters in test_case/. GA will be performed with 1
 
 To run mofga:
 1. Include your libraries of templates, nodes and edges in the templates, nodes and edges directory.
-2. Run the script "read_vertex_info.py" to automatically create a data file and template_params.py for your libraries of templates, nodes and edges.
+2. Run the script > read_vertex_info.py to automatically create a data file and template_params.py for your libraries of templates, nodes and edges by
+```
+python read_vertex_info.py
+```
 3. (Optional) Modify GA_params.py to set GA parameters.
 4. Run GA_production.py to create an initial population using the following method
 ```
