@@ -1,9 +1,19 @@
 import os
 import ast
+import subprocess
 from utils import read_database, write_data
 
 write_data()
 
+subprocess.call('rm -r tobacco/nodes/ tobacco/edges/ tobacco/templates', shell=True)
+print("Copying data ...")
+subprocess.call('cp -r nodes edges templates tobacco/', shell=True)
+os.chdir('tobacco')
+print("Checking templates and nodes compatibility")
+subprocess.call('python check_compatible_node.py', shell=True)
+os.chdir('..')
+
+print("Creating data and template_params.py")
 def get_key(my_dict, val):
     for key, value in my_dict.items():
         if val == value:

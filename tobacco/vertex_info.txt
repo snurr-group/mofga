@@ -18,3 +18,23 @@ TEMPLATE:ucp.cif
 [('V', 'V'), ('Er', 'V')]
 (4, 'Er')|['4c_Co_1_Ch.cif', '4c_Cu_1_Ch.cif', '4c_Zn_1_Ch.cif', '4c_Ni_1_Ch.cif']
 (3, 'V')|['3c_1C_3B_Ch.cif', '3c_1B_3CH3_Ch.cif', '3c_triazine_Ch.cif', '3c_1N_3B_Ch.cif', '3c_1BN_3B_Ch.cif', '3c_4B_Ch.cif', '3c_B_Ch.cif']
+TEMPLATE:fof.cif
+[('V', 'V'), ('Er', 'V')]
+(4, 'Er')|['4c_Co_1_Ch.cif', '4c_Cu_1_Ch.cif', '4c_Zn_1_Ch.cif', '4c_Ni_1_Ch.cif']
+(3, 'V')|['3c_1C_3B_Ch.cif', '3c_1B_3CH3_Ch.cif', '3c_triazine_Ch.cif', '3c_1N_3B_Ch.cif', '3c_1BN_3B_Ch.cif', '3c_4B_Ch.cif', '3c_B_Ch.cif']
+TEMPLATE:fog.cif
+[('V', 'V'), ('Er', 'V')]
+(4, 'Er')|['4c_Co_1_Ch.cif', '4c_Cu_1_Ch.cif', '4c_Zn_1_Ch.cif', '4c_Ni_1_Ch.cif']
+(3, 'V')|['3c_1C_3B_Ch.cif', '3c_1B_3CH3_Ch.cif', '3c_triazine_Ch.cif', '3c_1N_3B_Ch.cif', '3c_1BN_3B_Ch.cif', '3c_4B_Ch.cif', '3c_B_Ch.cif']
+TEMPLATE:lil.cif
+[('Er', 'V'), ('Er', 'Er')]
+(4, 'V')|['4c_Co_1_Ch.cif', '4c_Cu_1_Ch.cif', '4c_Zn_1_Ch.cif', '4c_Ni_1_Ch.cif']
+(3, 'Er')|['3c_1C_3B_Ch.cif', '3c_1B_3CH3_Ch.cif', '3c_triazine_Ch.cif', '3c_1N_3B_Ch.cif', '3c_1BN_3B_Ch.cif', '3c_4B_Ch.cif', '3c_B_Ch.cif']
+TEMPLATE:tfb.cif
+[('V', 'V'), ('Er', 'V')]
+(4, 'Er')|['4c_Co_1_Ch.cif', '4c_Cu_1_Ch.cif', '4c_Zn_1_Ch.cif', '4c_Ni_1_Ch.cif']
+(3, 'V')|['3c_1C_3B_Ch.cif', '3c_1B_3CH3_Ch.cif', '3c_triazine_Ch.cif', '3c_1N_3B_Ch.cif', '3c_1BN_3B_Ch.cif', '3c_4B_Ch.cif', '3c_B_Ch.cif']
+TEMPLATE:ucp.cif
+[('V', 'V'), ('Er', 'V')]
+(4, 'Er')|['4c_Co_1_Ch.cif', '4c_Cu_1_Ch.cif', '4c_Zn_1_Ch.cif', '4c_Ni_1_Ch.cif']
+(3, 'V')|['3c_1C_3B_Ch.cif', '3c_1B_3CH3_Ch.cif', '3c_triazine_Ch.cif', '3c_1N_3B_Ch.cif', '3c_1BN_3B_Ch.cif', '3c_4B_Ch.cif', '3c_B_Ch.cif']
