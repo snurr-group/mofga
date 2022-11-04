@@ -1,8 +1,7 @@
 """ Parameters for GA """
 
-#tobacco_path = './tobacco'
-tobacco_path='/global/cscratch1/sd/tdpham/work/Faramarz_project/MOFGA/tobacco'
-n_mof_per_generation = 50
+tobacco_path = '#ABS/PATH/TO/tobacco'
+n_mof_per_generation = 200
 """ Ranking Selection parameters"""
 n_mof_selection = 8 # number of MOFs selected for tournament selection. Must be a power of 2
 r_prop = 0.95 # ranking probability
