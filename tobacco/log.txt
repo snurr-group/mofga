@@ -1,0 +1,3121 @@
+
+=========================================================================================================
+template : anh.cif
+=========================================================================================================
+
+Number of vertices =  9
+Number of edges =  18
+
+*****************************************************************
+RMSD of the compatible node BBs with assigned vertices:          
+*****************************************************************
+
+vertex V (6 connected)
+     mc7.cif deviation = 0.38806 (within tolerance)
+     mc8.cif deviation = 0.38806 (within tolerance)
+     mc5.cif deviation = 0.38806 (within tolerance)
+     mc1.cif deviation = 0.3518 (within tolerance)
+     mc6.cif deviation = 0.38806 (within tolerance)
+     mc9.cif deviation = 0.39763 (within tolerance)
+* 6 compatible building blocks out of 6 available for node V *
+vertex Er (3 connected)
+     on3.cif deviation = 0.04707 (within tolerance)
+* 1 compatible building blocks out of 1 available for node Er *
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+vertex assignment :  ['v1-mc1.cif', 'v2-on3.cif']
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+edge assignment :  ('1DoU_Ch.cif',)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+scaling unit cell and vertex positions...
+optimizing with local minimization algorithm L-BFGS-B...
+
+The final objective function value is 29072.385
+
+*******************************************
+The scaled unit cell parameters are : 
+*******************************************
+a    : 20.37869
+b    : 20.39761
+c    : 35.94639
+alpha: 95.8024
+beta : 70.02468
+gamma: 120.01162
+
+computing X-X bonds...
+
+*******************************************
+Bond formation : 
+*******************************************
+distance search tolerance is 16.208 Angstroms
+there were  36  X-X bonds formed
+bond check passed
+
+writing cif...
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+vertex assignment :  ['v1-mc7.cif', 'v2-on3.cif']
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+edge assignment :  ('1DoU_Ch.cif',)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+scaling unit cell and vertex positions...
+optimizing with local minimization algorithm L-BFGS-B...
+
+The final objective function value is 32788.997
+
+*******************************************
+The scaled unit cell parameters are : 
+*******************************************
+a    : 16.14949
+b    : 16.38534
+c    : 35.94523
+alpha: 90.77736
+beta : 89.99832
+gamma: 119.5227
+
+computing X-X bonds...
+
+*******************************************
+Bond formation : 
+*******************************************
+distance search tolerance is 14.289 Angstroms
+there were  36  X-X bonds formed
+bond check passed
+
+writing cif...
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+vertex assignment :  ['v1-mc8.cif', 'v2-on3.cif']
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+edge assignment :  ('1DoU_Ch.cif',)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+scaling unit cell and vertex positions...
+optimizing with local minimization algorithm L-BFGS-B...
+
+The final objective function value is 32788.997
+
+*******************************************
+The scaled unit cell parameters are : 
+*******************************************
+a    : 16.14949
+b    : 16.38534
+c    : 35.94523
+alpha: 90.77736
+beta : 89.99832
+gamma: 119.5227
+
+computing X-X bonds...
+
+*******************************************
+Bond formation : 
+*******************************************
+distance search tolerance is 14.289 Angstroms
+there were  36  X-X bonds formed
+bond check passed
+
+writing cif...
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+vertex assignment :  ['v1-mc5.cif', 'v2-on3.cif']
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+edge assignment :  ('1DoU_Ch.cif',)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+scaling unit cell and vertex positions...
+optimizing with local minimization algorithm L-BFGS-B...
+
+The final objective function value is 32788.997
+
+*******************************************
+The scaled unit cell parameters are : 
+*******************************************
+a    : 16.14949
+b    : 16.38534
+c    : 35.94523
+alpha: 90.77736
+beta : 89.99832
+gamma: 119.5227
+
+computing X-X bonds...
+
+*******************************************
+Bond formation : 
+*******************************************
+distance search tolerance is 14.289 Angstroms
+there were  36  X-X bonds formed
+bond check passed
+
+writing cif...
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+vertex assignment :  ['v1-mc6.cif', 'v2-on3.cif']
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+edge assignment :  ('1DoU_Ch.cif',)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+scaling unit cell and vertex positions...
+optimizing with local minimization algorithm L-BFGS-B...
+
+The final objective function value is 32788.997
+
+*******************************************
+The scaled unit cell parameters are : 
+*******************************************
+a    : 16.14949
+b    : 16.38534
+c    : 35.94523
+alpha: 90.77736
+beta : 89.99832
+gamma: 119.5227
+
+computing X-X bonds...
+
+*******************************************
+Bond formation : 
+*******************************************
+distance search tolerance is 14.289 Angstroms
+there were  36  X-X bonds formed
+bond check passed
+
+writing cif...
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+vertex assignment :  ['v1-mc9.cif', 'v2-on3.cif']
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+edge assignment :  ('1DoU_Ch.cif',)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+scaling unit cell and vertex positions...
+optimizing with local minimization algorithm L-BFGS-B...
+
+The final objective function value is 56021.436
+
+*******************************************
+The scaled unit cell parameters are : 
+*******************************************
+a    : 20.50332
+b    : 20.56622
+c    : 35.97881
+alpha: 89.8062
+beta : 72.4527
+gamma: 120.17166
+
+computing X-X bonds...
+
+*******************************************
+Bond formation : 
+*******************************************
+distance search tolerance is 16.278 Angstroms
+there were  36  X-X bonds formed
+bond check passed
+
+writing cif...
+
+
+=========================================================================================================
+template : ant.cif
+=========================================================================================================
+
+Number of vertices =  12
+Number of edges =  24
+
+*****************************************************************
+RMSD of the compatible node BBs with assigned vertices:          
+*****************************************************************
+
+vertex Er (6 connected)
+     mc7.cif deviation = 0.34456 (within tolerance)
+     mc8.cif deviation = 0.34456 (within tolerance)
+     mc5.cif deviation = 0.34456 (within tolerance)
+     mc1.cif deviation = 0.41596 (within tolerance)
+     mc6.cif deviation = 0.34456 (within tolerance)
+     mc9.cif deviation = 0.44714 (within tolerance)
+* 6 compatible building blocks out of 6 available for node Er *
+vertex V (3 connected)
+     on3.cif deviation = 0.047 (within tolerance)
+* 1 compatible building blocks out of 1 available for node V *
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+vertex assignment :  ['v1-on3.cif', 'v2-mc7.cif']
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+edge assignment :  ('1DoU_Ch.cif',)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+scaling unit cell and vertex positions...
+optimizing with local minimization algorithm L-BFGS-B...
+
+The final objective function value is 39355.894
+
+*******************************************
+The scaled unit cell parameters are : 
+*******************************************
+a    : 16.99762
+b    : 17.08805
+c    : 35.93241
+alpha: 89.19839
+beta : 90.14413
+gamma: 92.28709
+
+computing X-X bonds...
+
+*******************************************
+Bond formation : 
+*******************************************
+distance search tolerance is 14.287 Angstroms
+there were  48  X-X bonds formed
+bond check passed
+
+writing cif...
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+vertex assignment :  ['v1-on3.cif', 'v2-mc8.cif']
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+edge assignment :  ('1DoU_Ch.cif',)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+scaling unit cell and vertex positions...
+optimizing with local minimization algorithm L-BFGS-B...
+
+The final objective function value is 39355.894
+
+*******************************************
+The scaled unit cell parameters are : 
+*******************************************
+a    : 16.99762
+b    : 17.08805
+c    : 35.93241
+alpha: 89.19839
+beta : 90.14413
+gamma: 92.28709
+
+computing X-X bonds...
+
+*******************************************
+Bond formation : 
+*******************************************
+distance search tolerance is 14.287 Angstroms
+there were  48  X-X bonds formed
+bond check passed
+
+writing cif...
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+vertex assignment :  ['v1-on3.cif', 'v2-mc5.cif']
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+edge assignment :  ('1DoU_Ch.cif',)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+scaling unit cell and vertex positions...
+optimizing with local minimization algorithm L-BFGS-B...
+
+The final objective function value is 39355.894
+
+*******************************************
+The scaled unit cell parameters are : 
+*******************************************
+a    : 16.99762
+b    : 17.08805
+c    : 35.93241
+alpha: 89.19839
+beta : 90.14413
+gamma: 92.28709
+
+computing X-X bonds...
+
+*******************************************
+Bond formation : 
+*******************************************
+distance search tolerance is 14.287 Angstroms
+there were  48  X-X bonds formed
+bond check passed
+
+writing cif...
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+vertex assignment :  ['v1-on3.cif', 'v2-mc6.cif']
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+edge assignment :  ('1DoU_Ch.cif',)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+scaling unit cell and vertex positions...
+optimizing with local minimization algorithm L-BFGS-B...
+
+The final objective function value is 39355.894
+
+*******************************************
+The scaled unit cell parameters are : 
+*******************************************
+a    : 16.99762
+b    : 17.08805
+c    : 35.93241
+alpha: 89.19839
+beta : 90.14413
+gamma: 92.28709
+
+computing X-X bonds...
+
+*******************************************
+Bond formation : 
+*******************************************
+distance search tolerance is 14.287 Angstroms
+there were  48  X-X bonds formed
+bond check passed
+
+writing cif...
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+vertex assignment :  ['v1-on3.cif', 'v2-mc1.cif']
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+edge assignment :  ('1DoU_Ch.cif',)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+scaling unit cell and vertex positions...
+optimizing with local minimization algorithm L-BFGS-B...
+
+The final objective function value is 113778.229
+
+*******************************************
+The scaled unit cell parameters are : 
+*******************************************
+a    : 20.38311
+b    : 20.33233
+c    : 40.75878
+alpha: 83.79676
+beta : 83.76114
+gamma: 90.27457
+
+computing X-X bonds...
+
+*******************************************
+Bond formation : 
+*******************************************
+distance search tolerance is 16.206 Angstroms
+there were  48  X-X bonds formed
+bond check passed
+
+writing cif...
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+vertex assignment :  ['v1-on3.cif', 'v2-mc9.cif']
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+edge assignment :  ('1DoU_Ch.cif',)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+scaling unit cell and vertex positions...
+optimizing with local minimization algorithm L-BFGS-B...
+
+The final objective function value is 148786.668
+
+*******************************************
+The scaled unit cell parameters are : 
+*******************************************
+a    : 20.32491
+b    : 20.44473
+c    : 40.93688
+alpha: 90.0563
+beta : 76.18329
+gamma: 73.19231
+
+computing X-X bonds...
+
+*******************************************
+Bond formation : 
+*******************************************
+distance search tolerance is 16.277 Angstroms
+there were  48  X-X bonds formed
+bond check passed
+
+writing cif...
+
+
+=========================================================================================================
+template : apo.cif
+=========================================================================================================
+
+Number of vertices =  12
+Number of edges =  24
+
+*****************************************************************
+RMSD of the compatible node BBs with assigned vertices:          
+*****************************************************************
+
+vertex Er (6 connected)
+     mc7.cif deviation = 0.33412 (within tolerance)
+     mc8.cif deviation = 0.33412 (within tolerance)
+     mc5.cif deviation = 0.33412 (within tolerance)
+     mc1.cif deviation = 0.29974 (within tolerance)
+     mc6.cif deviation = 0.33412 (within tolerance)
+     mc9.cif deviation = 0.34637 (within tolerance)
+* 6 compatible building blocks out of 6 available for node Er *
+vertex V (3 connected)
+     on3.cif deviation = 0.06929 (within tolerance)
+* 1 compatible building blocks out of 1 available for node V *
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+vertex assignment :  ['v1-on3.cif', 'v2-mc1.cif']
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+edge assignment :  ('1DoU_Ch.cif',)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+scaling unit cell and vertex positions...
+optimizing with local minimization algorithm L-BFGS-B...
+
+The final objective function value is 15923.916
+
+*******************************************
+The scaled unit cell parameters are : 
+*******************************************
+a    : 15.82732
+b    : 31.16059
+c    : 32.07454
+alpha: 90.00084
+beta : 90.00039
+gamma: 89.99113
+
+computing X-X bonds...
+
+*******************************************
+Bond formation : 
+*******************************************
+distance search tolerance is 16.195 Angstroms
+there were  48  X-X bonds formed
+bond check passed
+
+writing cif...
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+vertex assignment :  ['v1-on3.cif', 'v2-mc7.cif']
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+edge assignment :  ('1DoU_Ch.cif',)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+scaling unit cell and vertex positions...
+optimizing with local minimization algorithm L-BFGS-B...
+
+The final objective function value is 17919.27
+
+*******************************************
+The scaled unit cell parameters are : 
+*******************************************
+a    : 21.72676
+b    : 23.92778
+c    : 22.44541
+alpha: 90.00006
+beta : 90.00037
+gamma: 89.99971
+
+computing X-X bonds...
+
+*******************************************
+Bond formation : 
+*******************************************
+distance search tolerance is 14.288 Angstroms
+there were  48  X-X bonds formed
+bond check passed
+
+writing cif...
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+vertex assignment :  ['v1-on3.cif', 'v2-mc8.cif']
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+edge assignment :  ('1DoU_Ch.cif',)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+scaling unit cell and vertex positions...
+optimizing with local minimization algorithm L-BFGS-B...
+
+The final objective function value is 17919.27
+
+*******************************************
+The scaled unit cell parameters are : 
+*******************************************
+a    : 21.72676
+b    : 23.92778
+c    : 22.44541
+alpha: 90.00006
+beta : 90.00037
+gamma: 89.99971
+
+computing X-X bonds...
+
+*******************************************
+Bond formation : 
+*******************************************
+distance search tolerance is 14.288 Angstroms
+there were  48  X-X bonds formed
+bond check passed
+
+writing cif...
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+vertex assignment :  ['v1-on3.cif', 'v2-mc5.cif']
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+edge assignment :  ('1DoU_Ch.cif',)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+scaling unit cell and vertex positions...
+optimizing with local minimization algorithm L-BFGS-B...
+
+The final objective function value is 17919.27
+
+*******************************************
+The scaled unit cell parameters are : 
+*******************************************
+a    : 21.72676
+b    : 23.92778
+c    : 22.44541
+alpha: 90.00006
+beta : 90.00037
+gamma: 89.99971
+
+computing X-X bonds...
+
+*******************************************
+Bond formation : 
+*******************************************
+distance search tolerance is 14.288 Angstroms
+there were  48  X-X bonds formed
+bond check passed
+
+writing cif...
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+vertex assignment :  ['v1-on3.cif', 'v2-mc6.cif']
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+edge assignment :  ('1DoU_Ch.cif',)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+scaling unit cell and vertex positions...
+optimizing with local minimization algorithm L-BFGS-B...
+
+The final objective function value is 17919.27
+
+*******************************************
+The scaled unit cell parameters are : 
+*******************************************
+a    : 21.72676
+b    : 23.92778
+c    : 22.44541
+alpha: 90.00006
+beta : 90.00037
+gamma: 89.99971
+
+computing X-X bonds...
+
+*******************************************
+Bond formation : 
+*******************************************
+distance search tolerance is 14.288 Angstroms
+there were  48  X-X bonds formed
+bond check passed
+
+writing cif...
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+vertex assignment :  ['v1-on3.cif', 'v2-mc9.cif']
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+edge assignment :  ('1DoU_Ch.cif',)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+scaling unit cell and vertex positions...
+optimizing with local minimization algorithm L-BFGS-B...
+
+The final objective function value is 49125.747
+
+*******************************************
+The scaled unit cell parameters are : 
+*******************************************
+a    : 20.84335
+b    : 24.58349
+c    : 33.3973
+alpha: 90.00228
+beta : 90.00456
+gamma: 90.01194
+
+computing X-X bonds...
+
+*******************************************
+Bond formation : 
+*******************************************
+distance search tolerance is 16.204 Angstroms
+there were  48  X-X bonds formed
+bond check passed
+
+writing cif...
+
+
+=========================================================================================================
+template : cml.cif
+=========================================================================================================
+
+Number of vertices =  12
+Number of edges =  24
+
+*****************************************************************
+RMSD of the compatible node BBs with assigned vertices:          
+*****************************************************************
+
+vertex Er (6 connected)
+     mc7.cif deviation = 0.10671 (within tolerance)
+     mc8.cif deviation = 0.10671 (within tolerance)
+     mc5.cif deviation = 0.10671 (within tolerance)
+     mc1.cif deviation = 0.50082 (outside tolerance)
+     mc6.cif deviation = 0.10671 (within tolerance)
+     mc9.cif deviation = 0.52441 (outside tolerance)
+* 4 compatible building blocks out of 6 available for node Er *
+vertex V (3 connected)
+     on3.cif deviation = 0.06875 (within tolerance)
+* 1 compatible building blocks out of 1 available for node V *
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+vertex assignment :  ['v1-on3.cif', 'v2-mc7.cif']
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+edge assignment :  ('1DoU_Ch.cif',)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+scaling unit cell and vertex positions...
+optimizing with local minimization algorithm L-BFGS-B...
+
+The final objective function value is 1052.172
+
+*******************************************
+The scaled unit cell parameters are : 
+*******************************************
+a    : 20.03503
+b    : 26.63302
+c    : 23.7897
+alpha: 89.99923
+beta : 90.00097
+gamma: 89.99914
+
+computing X-X bonds...
+
+*******************************************
+Bond formation : 
+*******************************************
+distance search tolerance is 14.242 Angstroms
+there were  48  X-X bonds formed
+bond check passed
+
+writing cif...
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+vertex assignment :  ['v1-on3.cif', 'v2-mc8.cif']
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+edge assignment :  ('1DoU_Ch.cif',)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+scaling unit cell and vertex positions...
+optimizing with local minimization algorithm L-BFGS-B...
+
+The final objective function value is 1052.172
+
+*******************************************
+The scaled unit cell parameters are : 
+*******************************************
+a    : 20.03503
+b    : 26.63302
+c    : 23.7897
+alpha: 89.99923
+beta : 90.00097
+gamma: 89.99914
+
+computing X-X bonds...
+
+*******************************************
+Bond formation : 
+*******************************************
+distance search tolerance is 14.242 Angstroms
+there were  48  X-X bonds formed
+bond check passed
+
+writing cif...
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+vertex assignment :  ['v1-on3.cif', 'v2-mc5.cif']
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+edge assignment :  ('1DoU_Ch.cif',)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+scaling unit cell and vertex positions...
+optimizing with local minimization algorithm L-BFGS-B...
+
+The final objective function value is 1052.172
+
+*******************************************
+The scaled unit cell parameters are : 
+*******************************************
+a    : 20.03503
+b    : 26.63302
+c    : 23.7897
+alpha: 89.99923
+beta : 90.00097
+gamma: 89.99914
+
+computing X-X bonds...
+
+*******************************************
+Bond formation : 
+*******************************************
+distance search tolerance is 14.242 Angstroms
+there were  48  X-X bonds formed
+bond check passed
+
+writing cif...
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+vertex assignment :  ['v1-on3.cif', 'v2-mc6.cif']
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+edge assignment :  ('1DoU_Ch.cif',)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+scaling unit cell and vertex positions...
+optimizing with local minimization algorithm L-BFGS-B...
+
+The final objective function value is 1052.172
+
+*******************************************
+The scaled unit cell parameters are : 
+*******************************************
+a    : 20.03503
+b    : 26.63302
+c    : 23.7897
+alpha: 89.99923
+beta : 90.00097
+gamma: 89.99914
+
+computing X-X bonds...
+
+*******************************************
+Bond formation : 
+*******************************************
+distance search tolerance is 14.242 Angstroms
+there were  48  X-X bonds formed
+bond check passed
+
+writing cif...
+
+
+=========================================================================================================
+template : czz.cif
+=========================================================================================================
+
+Number of vertices =  36
+Number of edges =  72
+
+*****************************************************************
+RMSD of the compatible node BBs with assigned vertices:          
+*****************************************************************
+
+vertex V (6 connected)
+     mc7.cif deviation = 0.35611 (within tolerance)
+     mc8.cif deviation = 0.35611 (within tolerance)
+     mc5.cif deviation = 0.35611 (within tolerance)
+     mc1.cif deviation = 0.47188 (outside tolerance)
+     mc6.cif deviation = 0.35611 (within tolerance)
+     mc9.cif deviation = 0.49915 (outside tolerance)
+* 4 compatible building blocks out of 6 available for node V *
+vertex Er (3 connected)
+     on3.cif deviation = 0.05773 (within tolerance)
+* 1 compatible building blocks out of 1 available for node Er *
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+vertex assignment :  ['v1-mc7.cif', 'v2-on3.cif']
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+edge assignment :  ('1DoU_Ch.cif',)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+scaling unit cell and vertex positions...
+optimizing with local minimization algorithm L-BFGS-B...
+
+The final objective function value is 112079.674
+
+*******************************************
+The scaled unit cell parameters are : 
+*******************************************
+a    : 30.7831
+b    : 30.86336
+c    : 30.81582
+alpha: 90.67108
+beta : 90.39639
+gamma: 91.06718
+
+computing X-X bonds...
+
+*******************************************
+Bond formation : 
+*******************************************
+distance search tolerance is 14.384 Angstroms
+there were  144  X-X bonds formed
+bond check passed
+
+writing cif...
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+vertex assignment :  ['v1-mc8.cif', 'v2-on3.cif']
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+edge assignment :  ('1DoU_Ch.cif',)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+scaling unit cell and vertex positions...
+optimizing with local minimization algorithm L-BFGS-B...
+
+The final objective function value is 112079.674
+
+*******************************************
+The scaled unit cell parameters are : 
+*******************************************
+a    : 30.7831
+b    : 30.86336
+c    : 30.81582
+alpha: 90.67108
+beta : 90.39639
+gamma: 91.06718
+
+computing X-X bonds...
+
+*******************************************
+Bond formation : 
+*******************************************
+distance search tolerance is 14.384 Angstroms
+there were  144  X-X bonds formed
+bond check passed
+
+writing cif...
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+vertex assignment :  ['v1-mc5.cif', 'v2-on3.cif']
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+edge assignment :  ('1DoU_Ch.cif',)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+scaling unit cell and vertex positions...
+optimizing with local minimization algorithm L-BFGS-B...
+
+The final objective function value is 112079.674
+
+*******************************************
+The scaled unit cell parameters are : 
+*******************************************
+a    : 30.7831
+b    : 30.86336
+c    : 30.81582
+alpha: 90.67108
+beta : 90.39639
+gamma: 91.06718
+
+computing X-X bonds...
+
+*******************************************
+Bond formation : 
+*******************************************
+distance search tolerance is 14.384 Angstroms
+there were  144  X-X bonds formed
+bond check passed
+
+writing cif...
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+vertex assignment :  ['v1-mc6.cif', 'v2-on3.cif']
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+edge assignment :  ('1DoU_Ch.cif',)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+scaling unit cell and vertex positions...
+optimizing with local minimization algorithm L-BFGS-B...
+
+The final objective function value is 112079.674
+
+*******************************************
+The scaled unit cell parameters are : 
+*******************************************
+a    : 30.7831
+b    : 30.86336
+c    : 30.81582
+alpha: 90.67108
+beta : 90.39639
+gamma: 91.06718
+
+computing X-X bonds...
+
+*******************************************
+Bond formation : 
+*******************************************
+distance search tolerance is 14.384 Angstroms
+there were  144  X-X bonds formed
+bond check passed
+
+writing cif...
+
+
+=========================================================================================================
+template : dag.cif
+=========================================================================================================
+
+Number of vertices =  12
+Number of edges =  24
+
+*****************************************************************
+RMSD of the compatible node BBs with assigned vertices:          
+*****************************************************************
+
+vertex V (6 connected)
+     mc7.cif deviation = 0.06056 (within tolerance)
+     mc8.cif deviation = 0.06056 (within tolerance)
+     mc5.cif deviation = 0.06056 (within tolerance)
+     mc1.cif deviation = 0.48243 (outside tolerance)
+     mc6.cif deviation = 0.06056 (within tolerance)
+     mc9.cif deviation = 0.51153 (outside tolerance)
+* 4 compatible building blocks out of 6 available for node V *
+vertex Er (3 connected)
+     on3.cif deviation = 0.15976 (outside tolerance)
+* 0 compatible building blocks out of 1 available for node Er *
+
+
+=========================================================================================================
+template : eea.cif
+=========================================================================================================
+
+Number of vertices =  27
+Number of edges =  54
+
+*****************************************************************
+RMSD of the compatible node BBs with assigned vertices:          
+*****************************************************************
+
+vertex Er (6 connected)
+     mc7.cif deviation = 0.54142 (outside tolerance)
+     mc8.cif deviation = 0.54142 (outside tolerance)
+     mc5.cif deviation = 0.54142 (outside tolerance)
+     mc1.cif deviation = 0.12899 (within tolerance)
+     mc6.cif deviation = 0.54142 (outside tolerance)
+     mc9.cif deviation = 0.13604 (within tolerance)
+* 2 compatible building blocks out of 6 available for node Er *
+vertex V (3 connected)
+     on3.cif deviation = 0.03249 (within tolerance)
+* 1 compatible building blocks out of 1 available for node V *
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+vertex assignment :  ['v1-on3.cif', 'v2-mc1.cif']
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+edge assignment :  ('1DoU_Ch.cif',)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+scaling unit cell and vertex positions...
+optimizing with local minimization algorithm L-BFGS-B...
+
+The final objective function value is 1724.235
+
+*******************************************
+The scaled unit cell parameters are : 
+*******************************************
+a    : 37.90386
+b    : 37.90388
+c    : 42.01489
+alpha: 89.97061
+beta : 90.02946
+gamma: 120.41675
+
+computing X-X bonds...
+
+*******************************************
+Bond formation : 
+*******************************************
+distance search tolerance is 16.081 Angstroms
+there were  108  X-X bonds formed
+bond check passed
+
+writing cif...
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+vertex assignment :  ['v1-on3.cif', 'v2-mc9.cif']
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+edge assignment :  ('1DoU_Ch.cif',)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+scaling unit cell and vertex positions...
+optimizing with local minimization algorithm L-BFGS-B...
+
+The final objective function value is 20909.741
+
+*******************************************
+The scaled unit cell parameters are : 
+*******************************************
+a    : 38.72673
+b    : 38.72674
+c    : 39.81017
+alpha: 89.99869
+beta : 90.00139
+gamma: 120.19635
+
+computing X-X bonds...
+
+*******************************************
+Bond formation : 
+*******************************************
+distance search tolerance is 16.152 Angstroms
+there were  108  X-X bonds formed
+bond check passed
+
+writing cif...
+
+
+=========================================================================================================
+template : esg.cif
+=========================================================================================================
+
+Number of vertices =  12
+Number of edges =  24
+
+*****************************************************************
+RMSD of the compatible node BBs with assigned vertices:          
+*****************************************************************
+
+vertex Er (6 connected)
+     mc7.cif deviation = 0.4569 (outside tolerance)
+     mc8.cif deviation = 0.4569 (outside tolerance)
+     mc5.cif deviation = 0.4569 (outside tolerance)
+     mc1.cif deviation = 0.1396 (within tolerance)
+     mc6.cif deviation = 0.4569 (outside tolerance)
+     mc9.cif deviation = 0.19783 (within tolerance)
+* 2 compatible building blocks out of 6 available for node Er *
+vertex V (3 connected)
+     on3.cif deviation = 0.04706 (within tolerance)
+* 1 compatible building blocks out of 1 available for node V *
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+vertex assignment :  ['v1-on3.cif', 'v2-mc1.cif']
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+edge assignment :  ('1DoU_Ch.cif',)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+scaling unit cell and vertex positions...
+optimizing with local minimization algorithm L-BFGS-B...
+
+The final objective function value is 2375.589
+
+*******************************************
+The scaled unit cell parameters are : 
+*******************************************
+a    : 33.99691
+b    : 12.20066
+c    : 29.48409
+alpha: 89.99999
+beta : 118.09808
+gamma: 90.00001
+
+computing X-X bonds...
+
+*******************************************
+Bond formation : 
+*******************************************
+distance search tolerance is 16.207 Angstroms
+there were  48  X-X bonds formed
+bond check passed
+
+writing cif...
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+vertex assignment :  ['v1-on3.cif', 'v2-mc9.cif']
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+edge assignment :  ('1DoU_Ch.cif',)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+scaling unit cell and vertex positions...
+optimizing with local minimization algorithm L-BFGS-B...
+
+The final objective function value is 3835.251
+
+*******************************************
+The scaled unit cell parameters are : 
+*******************************************
+a    : 32.76512
+b    : 16.13043
+c    : 20.57045
+alpha: 90.00073
+beta : 111.99239
+gamma: 89.99954
+
+computing X-X bonds...
+
+*******************************************
+Bond formation : 
+*******************************************
+distance search tolerance is 16.278 Angstroms
+there were  48  X-X bonds formed
+bond check passed
+
+writing cif...
+
+
+=========================================================================================================
+template : fmz.cif
+=========================================================================================================
+
+Number of vertices =  54
+Number of edges =  108
+
+*****************************************************************
+RMSD of the compatible node BBs with assigned vertices:          
+*****************************************************************
+
+vertex Er (6 connected)
+     mc7.cif deviation = 0.30376 (within tolerance)
+     mc8.cif deviation = 0.30376 (within tolerance)
+     mc5.cif deviation = 0.30376 (within tolerance)
+     mc1.cif deviation = 0.32596 (within tolerance)
+     mc6.cif deviation = 0.30376 (within tolerance)
+     mc9.cif deviation = 0.40181 (within tolerance)
+* 6 compatible building blocks out of 6 available for node Er *
+vertex V (3 connected)
+     on3.cif deviation = 0.03187 (within tolerance)
+* 1 compatible building blocks out of 1 available for node V *
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+vertex assignment :  ['v1-on3.cif', 'v2-mc7.cif']
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+edge assignment :  ('1DoU_Ch.cif',)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+scaling unit cell and vertex positions...
+optimizing with local minimization algorithm L-BFGS-B...
+
+The final objective function value is 145914.877
+
+*******************************************
+The scaled unit cell parameters are : 
+*******************************************
+a    : 30.58847
+b    : 30.58845
+c    : 61.40799
+alpha: 89.99967
+beta : 90.00212
+gamma: 120.11954
+
+computing X-X bonds...
+
+*******************************************
+Bond formation : 
+*******************************************
+distance search tolerance is 14.038 Angstroms
+there were  216  X-X bonds formed
+bond check passed
+
+writing cif...
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+vertex assignment :  ['v1-on3.cif', 'v2-mc8.cif']
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+edge assignment :  ('1DoU_Ch.cif',)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+scaling unit cell and vertex positions...
+optimizing with local minimization algorithm L-BFGS-B...
+
+The final objective function value is 145914.877
+
+*******************************************
+The scaled unit cell parameters are : 
+*******************************************
+a    : 30.58847
+b    : 30.58845
+c    : 61.40799
+alpha: 89.99967
+beta : 90.00212
+gamma: 120.11954
+
+computing X-X bonds...
+
+*******************************************
+Bond formation : 
+*******************************************
+distance search tolerance is 14.038 Angstroms
+there were  216  X-X bonds formed
+bond check passed
+
+writing cif...
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+vertex assignment :  ['v1-on3.cif', 'v2-mc5.cif']
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+edge assignment :  ('1DoU_Ch.cif',)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+scaling unit cell and vertex positions...
+optimizing with local minimization algorithm L-BFGS-B...
+
+The final objective function value is 145914.877
+
+*******************************************
+The scaled unit cell parameters are : 
+*******************************************
+a    : 30.58847
+b    : 30.58845
+c    : 61.40799
+alpha: 89.99967
+beta : 90.00212
+gamma: 120.11954
+
+computing X-X bonds...
+
+*******************************************
+Bond formation : 
+*******************************************
+distance search tolerance is 14.038 Angstroms
+there were  216  X-X bonds formed
+bond check passed
+
+writing cif...
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+vertex assignment :  ['v1-on3.cif', 'v2-mc6.cif']
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+edge assignment :  ('1DoU_Ch.cif',)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+scaling unit cell and vertex positions...
+optimizing with local minimization algorithm L-BFGS-B...
+
+The final objective function value is 145914.877
+
+*******************************************
+The scaled unit cell parameters are : 
+*******************************************
+a    : 30.58847
+b    : 30.58845
+c    : 61.40799
+alpha: 89.99967
+beta : 90.00212
+gamma: 120.11954
+
+computing X-X bonds...
+
+*******************************************
+Bond formation : 
+*******************************************
+distance search tolerance is 14.038 Angstroms
+there were  216  X-X bonds formed
+bond check passed
+
+writing cif...
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+vertex assignment :  ['v1-on3.cif', 'v2-mc1.cif']
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+edge assignment :  ('1DoU_Ch.cif',)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+scaling unit cell and vertex positions...
+optimizing with local minimization algorithm L-BFGS-B...
+
+The final objective function value is 106473.946
+
+*******************************************
+The scaled unit cell parameters are : 
+*******************************************
+a    : 34.38725
+b    : 34.387
+c    : 69.94978
+alpha: 90.00059
+beta : 89.99835
+gamma: 120.36673
+
+computing X-X bonds...
+
+*******************************************
+Bond formation : 
+*******************************************
+distance search tolerance is 15.951 Angstroms
+there were  216  X-X bonds formed
+bond check passed
+
+writing cif...
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+vertex assignment :  ['v1-on3.cif', 'v2-mc9.cif']
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+edge assignment :  ('1DoU_Ch.cif',)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+scaling unit cell and vertex positions...
+optimizing with local minimization algorithm L-BFGS-B...
+
+The final objective function value is 464238.32
+
+*******************************************
+The scaled unit cell parameters are : 
+*******************************************
+a    : 32.70651
+b    : 32.71255
+c    : 70.30306
+alpha: 90.00279
+beta : 89.99528
+gamma: 121.10461
+
+computing X-X bonds...
+
+*******************************************
+Bond formation : 
+*******************************************
+distance search tolerance is 16.031 Angstroms
+there were  216  X-X bonds formed
+bond check passed
+
+writing cif...
+
+
+=========================================================================================================
+template : fof.cif
+=========================================================================================================
+
+Number of vertices =  27
+Number of edges =  45
+
+*****************************************************************
+RMSD of the compatible node BBs with assigned vertices:          
+*****************************************************************
+
+vertex Er (4 connected)
+vertex V (3 connected)
+     on3.cif deviation = 0.01002 (within tolerance)
+* 1 compatible building blocks out of 1 available for node V *
+
+
+=========================================================================================================
+template : fog.cif
+=========================================================================================================
+
+Number of vertices =  27
+Number of edges =  45
+
+*****************************************************************
+RMSD of the compatible node BBs with assigned vertices:          
+*****************************************************************
+
+vertex Er (4 connected)
+vertex V (3 connected)
+     on3.cif deviation = 0.0004 (within tolerance)
+* 1 compatible building blocks out of 1 available for node V *
+
+
+=========================================================================================================
+template : hwx.cif
+=========================================================================================================
+
+Number of vertices =  12
+Number of edges =  24
+
+*****************************************************************
+RMSD of the compatible node BBs with assigned vertices:          
+*****************************************************************
+
+vertex V (6 connected)
+     mc7.cif deviation = 0.10532 (within tolerance)
+     mc8.cif deviation = 0.10532 (within tolerance)
+     mc5.cif deviation = 0.10532 (within tolerance)
+     mc1.cif deviation = 0.50075 (outside tolerance)
+     mc6.cif deviation = 0.10532 (within tolerance)
+     mc9.cif deviation = 0.52471 (outside tolerance)
+* 4 compatible building blocks out of 6 available for node V *
+vertex Er (3 connected)
+     on3.cif deviation = 0.06987 (within tolerance)
+* 1 compatible building blocks out of 1 available for node Er *
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+vertex assignment :  ['v1-mc7.cif', 'v2-on3.cif']
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+edge assignment :  ('1DoU_Ch.cif',)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+scaling unit cell and vertex positions...
+optimizing with local minimization algorithm L-BFGS-B...
+
+The final objective function value is 1719.928
+
+*******************************************
+The scaled unit cell parameters are : 
+*******************************************
+a    : 29.49635
+b    : 30.03839
+c    : 13.97064
+alpha: 90.00008
+beta : 90.00004
+gamma: 89.99991
+
+computing X-X bonds...
+
+*******************************************
+Bond formation : 
+*******************************************
+distance search tolerance is 14.242 Angstroms
+there were  48  X-X bonds formed
+bond check passed
+
+writing cif...
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+vertex assignment :  ['v1-mc8.cif', 'v2-on3.cif']
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+edge assignment :  ('1DoU_Ch.cif',)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+scaling unit cell and vertex positions...
+optimizing with local minimization algorithm L-BFGS-B...
+
+The final objective function value is 1719.928
+
+*******************************************
+The scaled unit cell parameters are : 
+*******************************************
+a    : 29.49635
+b    : 30.03839
+c    : 13.97064
+alpha: 90.00008
+beta : 90.00004
+gamma: 89.99991
+
+computing X-X bonds...
+
+*******************************************
+Bond formation : 
+*******************************************
+distance search tolerance is 14.242 Angstroms
+there were  48  X-X bonds formed
+bond check passed
+
+writing cif...
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+vertex assignment :  ['v1-mc5.cif', 'v2-on3.cif']
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+edge assignment :  ('1DoU_Ch.cif',)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+scaling unit cell and vertex positions...
+optimizing with local minimization algorithm L-BFGS-B...
+
+The final objective function value is 1719.928
+
+*******************************************
+The scaled unit cell parameters are : 
+*******************************************
+a    : 29.49635
+b    : 30.03839
+c    : 13.97064
+alpha: 90.00008
+beta : 90.00004
+gamma: 89.99991
+
+computing X-X bonds...
+
+*******************************************
+Bond formation : 
+*******************************************
+distance search tolerance is 14.242 Angstroms
+there were  48  X-X bonds formed
+bond check passed
+
+writing cif...
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+vertex assignment :  ['v1-mc6.cif', 'v2-on3.cif']
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+edge assignment :  ('1DoU_Ch.cif',)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+scaling unit cell and vertex positions...
+optimizing with local minimization algorithm L-BFGS-B...
+
+The final objective function value is 1719.928
+
+*******************************************
+The scaled unit cell parameters are : 
+*******************************************
+a    : 29.49635
+b    : 30.03839
+c    : 13.97064
+alpha: 90.00008
+beta : 90.00004
+gamma: 89.99991
+
+computing X-X bonds...
+
+*******************************************
+Bond formation : 
+*******************************************
+distance search tolerance is 14.242 Angstroms
+there were  48  X-X bonds formed
+bond check passed
+
+writing cif...
+
+
+=========================================================================================================
+template : jxj.cif
+=========================================================================================================
+
+Number of vertices =  12
+Number of edges =  24
+
+*****************************************************************
+RMSD of the compatible node BBs with assigned vertices:          
+*****************************************************************
+
+vertex Er (6 connected)
+     mc7.cif deviation = 0.43592 (within tolerance)
+     mc8.cif deviation = 0.43592 (within tolerance)
+     mc5.cif deviation = 0.43592 (within tolerance)
+     mc1.cif deviation = 0.42767 (within tolerance)
+     mc6.cif deviation = 0.43592 (within tolerance)
+     mc9.cif deviation = 0.54781 (outside tolerance)
+* 5 compatible building blocks out of 6 available for node Er *
+vertex V (3 connected)
+     on3.cif deviation = 0.0716 (within tolerance)
+* 1 compatible building blocks out of 1 available for node V *
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+vertex assignment :  ['v1-on3.cif', 'v2-mc1.cif']
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+edge assignment :  ('1DoU_Ch.cif',)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+scaling unit cell and vertex positions...
+optimizing with local minimization algorithm L-BFGS-B...
+
+The final objective function value is 51091.105
+
+*******************************************
+The scaled unit cell parameters are : 
+*******************************************
+a    : 21.78206
+b    : 21.91221
+c    : 36.05097
+alpha: 90.00033
+beta : 100.42718
+gamma: 89.99976
+
+computing X-X bonds...
+
+*******************************************
+Bond formation : 
+*******************************************
+distance search tolerance is 16.085 Angstroms
+there were  48  X-X bonds formed
+bond check passed
+
+writing cif...
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+vertex assignment :  ['v1-on3.cif', 'v2-mc7.cif']
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+edge assignment :  ('1DoU_Ch.cif',)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+scaling unit cell and vertex positions...
+optimizing with local minimization algorithm L-BFGS-B...
+
+The final objective function value is 34046.165
+
+*******************************************
+The scaled unit cell parameters are : 
+*******************************************
+a    : 23.12861
+b    : 15.54073
+c    : 25.83944
+alpha: 89.99991
+beta : 90.00106
+gamma: 90.0
+
+computing X-X bonds...
+
+*******************************************
+Bond formation : 
+*******************************************
+distance search tolerance is 14.17 Angstroms
+there were  48  X-X bonds formed
+bond check passed
+
+writing cif...
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+vertex assignment :  ['v1-on3.cif', 'v2-mc8.cif']
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+edge assignment :  ('1DoU_Ch.cif',)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+scaling unit cell and vertex positions...
+optimizing with local minimization algorithm L-BFGS-B...
+
+The final objective function value is 34046.165
+
+*******************************************
+The scaled unit cell parameters are : 
+*******************************************
+a    : 23.12861
+b    : 15.54073
+c    : 25.83944
+alpha: 89.99991
+beta : 90.00106
+gamma: 90.0
+
+computing X-X bonds...
+
+*******************************************
+Bond formation : 
+*******************************************
+distance search tolerance is 14.17 Angstroms
+there were  48  X-X bonds formed
+bond check passed
+
+writing cif...
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+vertex assignment :  ['v1-on3.cif', 'v2-mc5.cif']
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+edge assignment :  ('1DoU_Ch.cif',)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+scaling unit cell and vertex positions...
+optimizing with local minimization algorithm L-BFGS-B...
+
+The final objective function value is 34046.165
+
+*******************************************
+The scaled unit cell parameters are : 
+*******************************************
+a    : 23.12861
+b    : 15.54073
+c    : 25.83944
+alpha: 89.99991
+beta : 90.00106
+gamma: 90.0
+
+computing X-X bonds...
+
+*******************************************
+Bond formation : 
+*******************************************
+distance search tolerance is 14.17 Angstroms
+there were  48  X-X bonds formed
+bond check passed
+
+writing cif...
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+vertex assignment :  ['v1-on3.cif', 'v2-mc6.cif']
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+edge assignment :  ('1DoU_Ch.cif',)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+scaling unit cell and vertex positions...
+optimizing with local minimization algorithm L-BFGS-B...
+
+The final objective function value is 34046.165
+
+*******************************************
+The scaled unit cell parameters are : 
+*******************************************
+a    : 23.12861
+b    : 15.54073
+c    : 25.83944
+alpha: 89.99991
+beta : 90.00106
+gamma: 90.0
+
+computing X-X bonds...
+
+*******************************************
+Bond formation : 
+*******************************************
+distance search tolerance is 14.17 Angstroms
+there were  48  X-X bonds formed
+bond check passed
+
+writing cif...
+
+
+=========================================================================================================
+template : lil.cif
+=========================================================================================================
+
+Number of vertices =  12
+Number of edges =  20
+
+*****************************************************************
+RMSD of the compatible node BBs with assigned vertices:          
+*****************************************************************
+
+vertex V (4 connected)
+vertex Er (3 connected)
+     on3.cif deviation = 0.02269 (within tolerance)
+* 1 compatible building blocks out of 1 available for node Er *
+
+
+=========================================================================================================
+template : pyr.cif
+=========================================================================================================
+
+Number of vertices =  12
+Number of edges =  24
+
+*****************************************************************
+RMSD of the compatible node BBs with assigned vertices:          
+*****************************************************************
+
+vertex Er (6 connected)
+     mc7.cif deviation = 0.44219 (within tolerance)
+     mc8.cif deviation = 0.44219 (within tolerance)
+     mc5.cif deviation = 0.44219 (within tolerance)
+     mc1.cif deviation = 0.21936 (within tolerance)
+     mc6.cif deviation = 0.44219 (within tolerance)
+     mc9.cif deviation = 0.33704 (within tolerance)
+* 6 compatible building blocks out of 6 available for node Er *
+vertex V (3 connected)
+     on3.cif deviation = 1e-05 (within tolerance)
+* 1 compatible building blocks out of 1 available for node V *
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+vertex assignment :  ['v1-on3.cif', 'v2-mc1.cif']
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+edge assignment :  ('1DoU_Ch.cif',)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+scaling unit cell and vertex positions...
+optimizing with local minimization algorithm L-BFGS-B...
+
+The final objective function value is 18710.941
+
+*******************************************
+The scaled unit cell parameters are : 
+*******************************************
+a    : 26.41091
+b    : 25.05512
+c    : 24.91123
+alpha: 85.26915
+beta : 93.66141
+gamma: 91.21939
+
+computing X-X bonds...
+
+*******************************************
+Bond formation : 
+*******************************************
+distance search tolerance is 15.821 Angstroms
+there were  48  X-X bonds formed
+bond check passed
+
+writing cif...
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+vertex assignment :  ['v1-on3.cif', 'v2-mc9.cif']
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+edge assignment :  ('1DoU_Ch.cif',)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+scaling unit cell and vertex positions...
+optimizing with local minimization algorithm L-BFGS-B...
+
+The final objective function value is 45257.601
+
+*******************************************
+The scaled unit cell parameters are : 
+*******************************************
+a    : 32.62189
+b    : 22.67777
+c    : 19.7298
+alpha: 90.00034
+beta : 89.99973
+gamma: 89.99676
+
+computing X-X bonds...
+
+*******************************************
+Bond formation : 
+*******************************************
+distance search tolerance is 15.892 Angstroms
+there were  48  X-X bonds formed
+bond check passed
+
+writing cif...
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+vertex assignment :  ['v1-on3.cif', 'v2-mc7.cif']
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+edge assignment :  ('1DoU_Ch.cif',)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+scaling unit cell and vertex positions...
+optimizing with local minimization algorithm L-BFGS-B...
+
+The final objective function value is 46541.074
+
+*******************************************
+The scaled unit cell parameters are : 
+*******************************************
+a    : 21.27351
+b    : 21.54157
+c    : 21.27936
+alpha: 89.69066
+beta : 90.28213
+gamma: 90.92253
+
+computing X-X bonds...
+
+*******************************************
+Bond formation : 
+*******************************************
+distance search tolerance is 13.902 Angstroms
+there were  48  X-X bonds formed
+bond check passed
+
+writing cif...
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+vertex assignment :  ['v1-on3.cif', 'v2-mc8.cif']
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+edge assignment :  ('1DoU_Ch.cif',)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+scaling unit cell and vertex positions...
+optimizing with local minimization algorithm L-BFGS-B...
+
+The final objective function value is 46541.074
+
+*******************************************
+The scaled unit cell parameters are : 
+*******************************************
+a    : 21.27351
+b    : 21.54157
+c    : 21.27936
+alpha: 89.69066
+beta : 90.28213
+gamma: 90.92253
+
+computing X-X bonds...
+
+*******************************************
+Bond formation : 
+*******************************************
+distance search tolerance is 13.902 Angstroms
+there were  48  X-X bonds formed
+bond check passed
+
+writing cif...
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+vertex assignment :  ['v1-on3.cif', 'v2-mc5.cif']
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+edge assignment :  ('1DoU_Ch.cif',)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+scaling unit cell and vertex positions...
+optimizing with local minimization algorithm L-BFGS-B...
+
+The final objective function value is 46541.074
+
+*******************************************
+The scaled unit cell parameters are : 
+*******************************************
+a    : 21.27351
+b    : 21.54157
+c    : 21.27936
+alpha: 89.69066
+beta : 90.28213
+gamma: 90.92253
+
+computing X-X bonds...
+
+*******************************************
+Bond formation : 
+*******************************************
+distance search tolerance is 13.902 Angstroms
+there were  48  X-X bonds formed
+bond check passed
+
+writing cif...
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+vertex assignment :  ['v1-on3.cif', 'v2-mc6.cif']
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+edge assignment :  ('1DoU_Ch.cif',)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+scaling unit cell and vertex positions...
+optimizing with local minimization algorithm L-BFGS-B...
+
+The final objective function value is 46541.074
+
+*******************************************
+The scaled unit cell parameters are : 
+*******************************************
+a    : 21.27351
+b    : 21.54157
+c    : 21.27936
+alpha: 89.69066
+beta : 90.28213
+gamma: 90.92253
+
+computing X-X bonds...
+
+*******************************************
+Bond formation : 
+*******************************************
+distance search tolerance is 13.902 Angstroms
+there were  48  X-X bonds formed
+bond check passed
+
+writing cif...
+
+
+=========================================================================================================
+template : rtl.cif
+=========================================================================================================
+
+Number of vertices =  6
+Number of edges =  12
+
+*****************************************************************
+RMSD of the compatible node BBs with assigned vertices:          
+*****************************************************************
+
+vertex Er (6 connected)
+     mc7.cif deviation = 0.42923 (within tolerance)
+     mc8.cif deviation = 0.42923 (within tolerance)
+     mc5.cif deviation = 0.42923 (within tolerance)
+     mc1.cif deviation = 0.289 (within tolerance)
+     mc6.cif deviation = 0.42923 (within tolerance)
+     mc9.cif deviation = 0.33542 (within tolerance)
+* 6 compatible building blocks out of 6 available for node Er *
+vertex V (3 connected)
+     on3.cif deviation = 0.07002 (within tolerance)
+* 1 compatible building blocks out of 1 available for node V *
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+vertex assignment :  ['v1-on3.cif', 'v2-mc1.cif']
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+edge assignment :  ('1DoU_Ch.cif',)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+scaling unit cell and vertex positions...
+optimizing with local minimization algorithm L-BFGS-B...
+
+The final objective function value is 7550.886
+
+*******************************************
+The scaled unit cell parameters are : 
+*******************************************
+a    : 27.50263
+b    : 17.37602
+c    : 17.91955
+alpha: 103.46773
+beta : 89.99992
+gamma: 90.00123
+
+computing X-X bonds...
+
+*******************************************
+Bond formation : 
+*******************************************
+distance search tolerance is 16.079 Angstroms
+there were  24  X-X bonds formed
+bond check passed
+
+writing cif...
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+vertex assignment :  ['v1-on3.cif', 'v2-mc9.cif']
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+edge assignment :  ('1DoU_Ch.cif',)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+scaling unit cell and vertex positions...
+optimizing with local minimization algorithm L-BFGS-B...
+
+The final objective function value is 23444.103
+
+*******************************************
+The scaled unit cell parameters are : 
+*******************************************
+a    : 23.52725
+b    : 22.03127
+c    : 18.1244
+alpha: 90.00086
+beta : 68.81055
+gamma: 90.00095
+
+computing X-X bonds...
+
+*******************************************
+Bond formation : 
+*******************************************
+distance search tolerance is 16.15 Angstroms
+there were  24  X-X bonds formed
+bond check passed
+
+writing cif...
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+vertex assignment :  ['v1-on3.cif', 'v2-mc7.cif']
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+edge assignment :  ('1DoU_Ch.cif',)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+scaling unit cell and vertex positions...
+optimizing with local minimization algorithm L-BFGS-B...
+
+The final objective function value is 24947.242
+
+*******************************************
+The scaled unit cell parameters are : 
+*******************************************
+a    : 21.29391
+b    : 19.26727
+c    : 13.43206
+alpha: 89.99997
+beta : 91.79026
+gamma: 89.9999
+
+computing X-X bonds...
+
+*******************************************
+Bond formation : 
+*******************************************
+distance search tolerance is 14.16 Angstroms
+there were  24  X-X bonds formed
+bond check passed
+
+writing cif...
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+vertex assignment :  ['v1-on3.cif', 'v2-mc8.cif']
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+edge assignment :  ('1DoU_Ch.cif',)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+scaling unit cell and vertex positions...
+optimizing with local minimization algorithm L-BFGS-B...
+
+The final objective function value is 24947.242
+
+*******************************************
+The scaled unit cell parameters are : 
+*******************************************
+a    : 21.29391
+b    : 19.26727
+c    : 13.43206
+alpha: 89.99997
+beta : 91.79026
+gamma: 89.9999
+
+computing X-X bonds...
+
+*******************************************
+Bond formation : 
+*******************************************
+distance search tolerance is 14.16 Angstroms
+there were  24  X-X bonds formed
+bond check passed
+
+writing cif...
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+vertex assignment :  ['v1-on3.cif', 'v2-mc5.cif']
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+edge assignment :  ('1DoU_Ch.cif',)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+scaling unit cell and vertex positions...
+optimizing with local minimization algorithm L-BFGS-B...
+
+The final objective function value is 24947.242
+
+*******************************************
+The scaled unit cell parameters are : 
+*******************************************
+a    : 21.29391
+b    : 19.26727
+c    : 13.43206
+alpha: 89.99997
+beta : 91.79026
+gamma: 89.9999
+
+computing X-X bonds...
+
+*******************************************
+Bond formation : 
+*******************************************
+distance search tolerance is 14.16 Angstroms
+there were  24  X-X bonds formed
+bond check passed
+
+writing cif...
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+vertex assignment :  ['v1-on3.cif', 'v2-mc6.cif']
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+edge assignment :  ('1DoU_Ch.cif',)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+scaling unit cell and vertex positions...
+optimizing with local minimization algorithm L-BFGS-B...
+
+The final objective function value is 24947.242
+
+*******************************************
+The scaled unit cell parameters are : 
+*******************************************
+a    : 21.29391
+b    : 19.26727
+c    : 13.43206
+alpha: 89.99997
+beta : 91.79026
+gamma: 89.9999
+
+computing X-X bonds...
+
+*******************************************
+Bond formation : 
+*******************************************
+distance search tolerance is 14.16 Angstroms
+there were  24  X-X bonds formed
+bond check passed
+
+writing cif...
+
+
+=========================================================================================================
+template : sab.cif
+=========================================================================================================
+
+Number of vertices =  24
+Number of edges =  48
+
+*****************************************************************
+RMSD of the compatible node BBs with assigned vertices:          
+*****************************************************************
+
+vertex Er (6 connected)
+     mc7.cif deviation = 0.21048 (within tolerance)
+     mc8.cif deviation = 0.21048 (within tolerance)
+     mc5.cif deviation = 0.21048 (within tolerance)
+     mc1.cif deviation = 0.50341 (outside tolerance)
+     mc6.cif deviation = 0.21048 (within tolerance)
+     mc9.cif deviation = 0.5076 (outside tolerance)
+* 4 compatible building blocks out of 6 available for node Er *
+vertex V (3 connected)
+     on3.cif deviation = 0.07774 (within tolerance)
+* 1 compatible building blocks out of 1 available for node V *
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+vertex assignment :  ['v1-on3.cif', 'v2-mc7.cif']
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+edge assignment :  ('1DoU_Ch.cif',)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+scaling unit cell and vertex positions...
+optimizing with local minimization algorithm L-BFGS-B...
+
+The final objective function value is 38976.555
+
+*******************************************
+The scaled unit cell parameters are : 
+*******************************************
+a    : 32.08177
+b    : 32.08499
+c    : 23.76487
+alpha: 90.00152
+beta : 90.00088
+gamma: 89.99949
+
+computing X-X bonds...
+
+*******************************************
+Bond formation : 
+*******************************************
+distance search tolerance is 14.325 Angstroms
+there were  96  X-X bonds formed
+bond check passed
+
+writing cif...
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+vertex assignment :  ['v1-on3.cif', 'v2-mc8.cif']
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+edge assignment :  ('1DoU_Ch.cif',)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+scaling unit cell and vertex positions...
+optimizing with local minimization algorithm L-BFGS-B...
+
+The final objective function value is 38976.555
+
+*******************************************
+The scaled unit cell parameters are : 
+*******************************************
+a    : 32.08177
+b    : 32.08499
+c    : 23.76487
+alpha: 90.00152
+beta : 90.00088
+gamma: 89.99949
+
+computing X-X bonds...
+
+*******************************************
+Bond formation : 
+*******************************************
+distance search tolerance is 14.325 Angstroms
+there were  96  X-X bonds formed
+bond check passed
+
+writing cif...
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+vertex assignment :  ['v1-on3.cif', 'v2-mc5.cif']
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+edge assignment :  ('1DoU_Ch.cif',)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+scaling unit cell and vertex positions...
+optimizing with local minimization algorithm L-BFGS-B...
+
+The final objective function value is 38976.555
+
+*******************************************
+The scaled unit cell parameters are : 
+*******************************************
+a    : 32.08177
+b    : 32.08499
+c    : 23.76487
+alpha: 90.00152
+beta : 90.00088
+gamma: 89.99949
+
+computing X-X bonds...
+
+*******************************************
+Bond formation : 
+*******************************************
+distance search tolerance is 14.325 Angstroms
+there were  96  X-X bonds formed
+bond check passed
+
+writing cif...
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+vertex assignment :  ['v1-on3.cif', 'v2-mc6.cif']
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+edge assignment :  ('1DoU_Ch.cif',)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+scaling unit cell and vertex positions...
+optimizing with local minimization algorithm L-BFGS-B...
+
+The final objective function value is 38976.555
+
+*******************************************
+The scaled unit cell parameters are : 
+*******************************************
+a    : 32.08177
+b    : 32.08499
+c    : 23.76487
+alpha: 90.00152
+beta : 90.00088
+gamma: 89.99949
+
+computing X-X bonds...
+
+*******************************************
+Bond formation : 
+*******************************************
+distance search tolerance is 14.325 Angstroms
+there were  96  X-X bonds formed
+bond check passed
+
+writing cif...
+
+
+=========================================================================================================
+template : sit.cif
+=========================================================================================================
+
+Number of vertices =  6
+Number of edges =  12
+
+*****************************************************************
+RMSD of the compatible node BBs with assigned vertices:          
+*****************************************************************
+
+vertex Er (6 connected)
+     mc7.cif deviation = 0.10399 (within tolerance)
+     mc8.cif deviation = 0.10399 (within tolerance)
+     mc5.cif deviation = 0.10399 (within tolerance)
+     mc1.cif deviation = 0.50086 (outside tolerance)
+     mc6.cif deviation = 0.10399 (within tolerance)
+     mc9.cif deviation = 0.52489 (outside tolerance)
+* 4 compatible building blocks out of 6 available for node Er *
+vertex V (3 connected)
+     on3.cif deviation = 0.06912 (within tolerance)
+* 1 compatible building blocks out of 1 available for node V *
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+vertex assignment :  ['v1-on3.cif', 'v2-mc7.cif']
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+edge assignment :  ('1DoU_Ch.cif',)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+scaling unit cell and vertex positions...
+optimizing with local minimization algorithm L-BFGS-B...
+
+The final objective function value is 874.181
+
+*******************************************
+The scaled unit cell parameters are : 
+*******************************************
+a    : 13.98544
+b    : 19.88691
+c    : 22.74211
+alpha: 90.00002
+beta : 90.00042
+gamma: 90.0
+
+computing X-X bonds...
+
+*******************************************
+Bond formation : 
+*******************************************
+distance search tolerance is 14.236 Angstroms
+there were  24  X-X bonds formed
+bond check passed
+
+writing cif...
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+vertex assignment :  ['v1-on3.cif', 'v2-mc8.cif']
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+edge assignment :  ('1DoU_Ch.cif',)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+scaling unit cell and vertex positions...
+optimizing with local minimization algorithm L-BFGS-B...
+
+The final objective function value is 874.181
+
+*******************************************
+The scaled unit cell parameters are : 
+*******************************************
+a    : 13.98544
+b    : 19.88691
+c    : 22.74211
+alpha: 90.00002
+beta : 90.00042
+gamma: 90.0
+
+computing X-X bonds...
+
+*******************************************
+Bond formation : 
+*******************************************
+distance search tolerance is 14.236 Angstroms
+there were  24  X-X bonds formed
+bond check passed
+
+writing cif...
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+vertex assignment :  ['v1-on3.cif', 'v2-mc5.cif']
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+edge assignment :  ('1DoU_Ch.cif',)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+scaling unit cell and vertex positions...
+optimizing with local minimization algorithm L-BFGS-B...
+
+The final objective function value is 874.181
+
+*******************************************
+The scaled unit cell parameters are : 
+*******************************************
+a    : 13.98544
+b    : 19.88691
+c    : 22.74211
+alpha: 90.00002
+beta : 90.00042
+gamma: 90.0
+
+computing X-X bonds...
+
+*******************************************
+Bond formation : 
+*******************************************
+distance search tolerance is 14.236 Angstroms
+there were  24  X-X bonds formed
+bond check passed
+
+writing cif...
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+vertex assignment :  ['v1-on3.cif', 'v2-mc6.cif']
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+edge assignment :  ('1DoU_Ch.cif',)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+scaling unit cell and vertex positions...
+optimizing with local minimization algorithm L-BFGS-B...
+
+The final objective function value is 874.181
+
+*******************************************
+The scaled unit cell parameters are : 
+*******************************************
+a    : 13.98544
+b    : 19.88691
+c    : 22.74211
+alpha: 90.00002
+beta : 90.00042
+gamma: 90.0
+
+computing X-X bonds...
+
+*******************************************
+Bond formation : 
+*******************************************
+distance search tolerance is 14.236 Angstroms
+there were  24  X-X bonds formed
+bond check passed
+
+writing cif...
+
+
+=========================================================================================================
+template : spn.cif
+=========================================================================================================
+
+Number of vertices =  48
+Number of edges =  96
+
+*****************************************************************
+RMSD of the compatible node BBs with assigned vertices:          
+*****************************************************************
+
+vertex Er (6 connected)
+     mc7.cif deviation = 0.694 (outside tolerance)
+     mc8.cif deviation = 0.694 (outside tolerance)
+     mc5.cif deviation = 0.694 (outside tolerance)
+     mc1.cif deviation = 0.41511 (within tolerance)
+     mc6.cif deviation = 0.694 (outside tolerance)
+     mc9.cif deviation = 0.25342 (within tolerance)
+* 2 compatible building blocks out of 6 available for node Er *
+vertex V (3 connected)
+     on3.cif deviation = 1e-05 (within tolerance)
+* 1 compatible building blocks out of 1 available for node V *
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+vertex assignment :  ['v1-on3.cif', 'v2-mc9.cif']
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+edge assignment :  ('1DoU_Ch.cif',)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+scaling unit cell and vertex positions...
+optimizing with local minimization algorithm L-BFGS-B...
+
+The final objective function value is 9575.99
+
+*******************************************
+The scaled unit cell parameters are : 
+*******************************************
+a    : 50.5179
+b    : 50.51769
+c    : 50.52234
+alpha: 90.00088
+beta : 90.00093
+gamma: 90.00168
+
+computing X-X bonds...
+
+*******************************************
+Bond formation : 
+*******************************************
+distance search tolerance is 15.892 Angstroms
+there were  192  X-X bonds formed
+bond check passed
+
+writing cif...
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+vertex assignment :  ['v1-on3.cif', 'v2-mc1.cif']
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+edge assignment :  ('1DoU_Ch.cif',)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+scaling unit cell and vertex positions...
+optimizing with local minimization algorithm L-BFGS-B...
+
+The final objective function value is 143376.339
+
+*******************************************
+The scaled unit cell parameters are : 
+*******************************************
+a    : 48.65286
+b    : 48.51627
+c    : 48.54056
+alpha: 91.3194
+beta : 91.1776
+gamma: 88.82356
+
+computing X-X bonds...
+
+*******************************************
+Bond formation : 
+*******************************************
+distance search tolerance is 15.821 Angstroms
+there were  192  X-X bonds formed
+bond check passed
+
+writing cif...
+
+
+=========================================================================================================
+template : tfb.cif
+=========================================================================================================
+
+Number of vertices =  72
+Number of edges =  120
+
+*****************************************************************
+RMSD of the compatible node BBs with assigned vertices:          
+*****************************************************************
+
+vertex Er (4 connected)
+vertex V (3 connected)
+     on3.cif deviation = 0.09449 (within tolerance)
+* 1 compatible building blocks out of 1 available for node V *
+
+
+=========================================================================================================
+template : tsx.cif
+=========================================================================================================
+
+Number of vertices =  6
+Number of edges =  12
+
+*****************************************************************
+RMSD of the compatible node BBs with assigned vertices:          
+*****************************************************************
+
+vertex V (6 connected)
+     mc7.cif deviation = 0.3446 (within tolerance)
+     mc8.cif deviation = 0.3446 (within tolerance)
+     mc5.cif deviation = 0.3446 (within tolerance)
+     mc1.cif deviation = 0.41692 (within tolerance)
+     mc6.cif deviation = 0.3446 (within tolerance)
+     mc9.cif deviation = 0.44803 (within tolerance)
+* 6 compatible building blocks out of 6 available for node V *
+vertex Er (3 connected)
+     on3.cif deviation = 0.04655 (within tolerance)
+* 1 compatible building blocks out of 1 available for node Er *
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+vertex assignment :  ['v1-mc7.cif', 'v2-on3.cif']
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+edge assignment :  ('1DoU_Ch.cif',)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+scaling unit cell and vertex positions...
+optimizing with local minimization algorithm L-BFGS-B...
+
+The final objective function value is 11436.258
+
+*******************************************
+The scaled unit cell parameters are : 
+*******************************************
+a    : 11.95085
+b    : 11.95122
+c    : 23.90893
+alpha: 91.16669
+beta : 91.16862
+gamma: 90.4354
+
+computing X-X bonds...
+
+*******************************************
+Bond formation : 
+*******************************************
+distance search tolerance is 14.283 Angstroms
+there were  24  X-X bonds formed
+bond check passed
+
+writing cif...
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+vertex assignment :  ['v1-mc8.cif', 'v2-on3.cif']
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+edge assignment :  ('1DoU_Ch.cif',)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+scaling unit cell and vertex positions...
+optimizing with local minimization algorithm L-BFGS-B...
+
+The final objective function value is 11436.258
+
+*******************************************
+The scaled unit cell parameters are : 
+*******************************************
+a    : 11.95085
+b    : 11.95122
+c    : 23.90893
+alpha: 91.16669
+beta : 91.16862
+gamma: 90.4354
+
+computing X-X bonds...
+
+*******************************************
+Bond formation : 
+*******************************************
+distance search tolerance is 14.283 Angstroms
+there were  24  X-X bonds formed
+bond check passed
+
+writing cif...
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+vertex assignment :  ['v1-mc5.cif', 'v2-on3.cif']
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+edge assignment :  ('1DoU_Ch.cif',)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+scaling unit cell and vertex positions...
+optimizing with local minimization algorithm L-BFGS-B...
+
+The final objective function value is 11436.258
+
+*******************************************
+The scaled unit cell parameters are : 
+*******************************************
+a    : 11.95085
+b    : 11.95122
+c    : 23.90893
+alpha: 91.16669
+beta : 91.16862
+gamma: 90.4354
+
+computing X-X bonds...
+
+*******************************************
+Bond formation : 
+*******************************************
+distance search tolerance is 14.283 Angstroms
+there were  24  X-X bonds formed
+bond check passed
+
+writing cif...
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+vertex assignment :  ['v1-mc6.cif', 'v2-on3.cif']
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+edge assignment :  ('1DoU_Ch.cif',)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+scaling unit cell and vertex positions...
+optimizing with local minimization algorithm L-BFGS-B...
+
+The final objective function value is 11436.258
+
+*******************************************
+The scaled unit cell parameters are : 
+*******************************************
+a    : 11.95085
+b    : 11.95122
+c    : 23.90893
+alpha: 91.16669
+beta : 91.16862
+gamma: 90.4354
+
+computing X-X bonds...
+
+*******************************************
+Bond formation : 
+*******************************************
+distance search tolerance is 14.283 Angstroms
+there were  24  X-X bonds formed
+bond check passed
+
+writing cif...
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+vertex assignment :  ['v1-mc1.cif', 'v2-on3.cif']
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+edge assignment :  ('1DoU_Ch.cif',)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+scaling unit cell and vertex positions...
+optimizing with local minimization algorithm L-BFGS-B...
+
+The final objective function value is 32058.37
+
+*******************************************
+The scaled unit cell parameters are : 
+*******************************************
+a    : 9.95539
+b    : 17.73586
+c    : 24.07271
+alpha: 90.00071
+beta : 89.99679
+gamma: 89.55848
+
+computing X-X bonds...
+
+*******************************************
+Bond formation : 
+*******************************************
+distance search tolerance is 16.202 Angstroms
+there were  24  X-X bonds formed
+bond check passed
+
+writing cif...
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+vertex assignment :  ['v1-mc9.cif', 'v2-on3.cif']
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+edge assignment :  ('1DoU_Ch.cif',)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+scaling unit cell and vertex positions...
+optimizing with local minimization algorithm L-BFGS-B...
+
+The final objective function value is 58036.385
+
+*******************************************
+The scaled unit cell parameters are : 
+*******************************************
+a    : 18.02266
+b    : 9.44014
+c    : 24.04882
+alpha: 89.96126
+beta : 89.99633
+gamma: 90.00977
+
+computing X-X bonds...
+
+*******************************************
+Bond formation : 
+*******************************************
+distance search tolerance is 16.273 Angstroms
+There are connection sites with too many/not enough bonds formed.
+There are connection sites with too few or too many bonds
+The number of XX bonds formed 22 is less than the correct number 24
+Try increasing the bond formation distance tolerance.
+there were  22  X-X bonds formed
+bond check failed, attempting distance search bonding...
+there were 24 X-X bonds formed
+
+writing cif...
+
+
+=========================================================================================================
+template : txt.cif
+=========================================================================================================
+
+Number of vertices =  26
+Number of edges =  72
+
+*****************************************************************
+RMSD of the compatible node BBs with assigned vertices:          
+*****************************************************************
+
+vertex V (36 connected)
+vertex Er (3 connected)
+     on3.cif deviation = 0.04681 (within tolerance)
+* 1 compatible building blocks out of 1 available for node Er *
+
+
+=========================================================================================================
+template : ucp.cif
+=========================================================================================================
+
+Number of vertices =  36
+Number of edges =  60
+
+*****************************************************************
+RMSD of the compatible node BBs with assigned vertices:          
+*****************************************************************
+
+vertex Er (4 connected)
+vertex V (3 connected)
+     on3.cif deviation = 0.02832 (within tolerance)
+* 1 compatible building blocks out of 1 available for node V *
+
+
+=========================================================================================================
+template : ydq.cif
+=========================================================================================================
+
+Number of vertices =  144
+Number of edges =  288
+
+*****************************************************************
+RMSD of the compatible node BBs with assigned vertices:          
+*****************************************************************
+
+vertex V (6 connected)
+     mc7.cif deviation = 0.49777 (outside tolerance)
+     mc8.cif deviation = 0.49777 (outside tolerance)
+     mc5.cif deviation = 0.49777 (outside tolerance)
+     mc1.cif deviation = 0.39952 (within tolerance)
+     mc6.cif deviation = 0.49777 (outside tolerance)
+     mc9.cif deviation = 0.32825 (within tolerance)
+* 2 compatible building blocks out of 6 available for node V *
+vertex Er (3 connected)
+     on3.cif deviation = 0.0285 (within tolerance)
+* 1 compatible building blocks out of 1 available for node Er *
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+vertex assignment :  ['v1-mc9.cif', 'v2-on3.cif']
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+edge assignment :  ('1DoU_Ch.cif',)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+scaling unit cell and vertex positions...
+optimizing with local minimization algorithm L-BFGS-B...
+
+The final objective function value is 460112.318
+
+*******************************************
+The scaled unit cell parameters are : 
+*******************************************
+a    : 69.90213
+b    : 69.90136
+c    : 69.90326
+alpha: 90.00007
+beta : 90.00008
+gamma: 90.00002
+
+computing X-X bonds...
+
+*******************************************
+Bond formation : 
+*******************************************
+distance search tolerance is 16.007 Angstroms
+there were  576  X-X bonds formed
+bond check passed
+
+writing cif...
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+vertex assignment :  ['v1-mc1.cif', 'v2-on3.cif']
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+edge assignment :  ('1DoU_Ch.cif',)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+scaling unit cell and vertex positions...
+optimizing with local minimization algorithm L-BFGS-B...
+
+The final objective function value is 915547.448
+
+*******************************************
+The scaled unit cell parameters are : 
+*******************************************
+a    : 69.55208
+b    : 69.55369
+c    : 69.55902
+alpha: 89.92283
+beta : 89.92373
+gamma: 90.07804
+
+computing X-X bonds...
+
+*******************************************
+Bond formation : 
+*******************************************
+distance search tolerance is 15.936 Angstroms
+There are connection sites with too many/not enough bonds formed.
+There are connection sites with too few or too many bonds
+The number of XX bonds formed 559 is less than the correct number 576
+Try increasing the bond formation distance tolerance.
+there were  559  X-X bonds formed
+bond check failed, attempting distance search bonding...
+there were 552 X-X bonds formed
+
+writing cif...
+
+
+=========================================================================================================
+template : zzz.cif
+=========================================================================================================
+
+Number of vertices =  12
+Number of edges =  24
+
+*****************************************************************
+RMSD of the compatible node BBs with assigned vertices:          
+*****************************************************************
+
+vertex Er (6 connected)
+     mc7.cif deviation = 0.49689 (outside tolerance)
+     mc8.cif deviation = 0.49689 (outside tolerance)
+     mc5.cif deviation = 0.49689 (outside tolerance)
+     mc1.cif deviation = 0.15235 (within tolerance)
+     mc6.cif deviation = 0.49689 (outside tolerance)
+     mc9.cif deviation = 0.36298 (within tolerance)
+* 2 compatible building blocks out of 6 available for node Er *
+vertex V (3 connected)
+     on3.cif deviation = 0.16821 (outside tolerance)
+* 0 compatible building blocks out of 1 available for node V *
+
+Normal termination of Tobacco_3.0 after
+--- 823.7882580757141 seconds ---
+

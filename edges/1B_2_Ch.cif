@@ -1,0 +1,51 @@
+data_1B_2_Ch
+_audit_creation_date              2019-12-23
+_audit_creation_method            'tobacco_3.0'
+_symmetry_space_group_name_H-M    'P1'
+_symmetry_Int_Tables_number       1
+_symmetry_cell_setting            triclinic
+loop_
+_symmetry_equiv_pos_as_xyz
+x,y,z
+_cell_length_a                    40.0
+_cell_length_b                    40.0
+_cell_length_c                    40.0
+_cell_angle_alpha                 90.0
+_cell_angle_beta                 90.0
+_cell_angle_gamma                 90.0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_adp_type
+_atom_site_occupancy
+_atom_site_charge
+C1        C   0.53445     0.49459     0.50018   0.00000  Uiso   1.00      0.00000
+C2        C   0.51254     0.46746     0.49984   0.00000  Uiso   1.00      0.00000
+X3        C   0.47809     0.47287     0.49968   0.00000  Uiso   1.00      0.00000
+C4        C   0.46555     0.50541     0.49993   0.00000  Uiso   1.00      0.00000
+X5        C   0.48746     0.53253     0.50031   0.00000  Uiso   1.00      0.00000
+C6        C   0.5219     0.52712     0.5004   0.00000  Uiso   1.00      0.00000
+H7        H   0.56128     0.49037     0.50028   0.00000  Uiso   1.00      0.00000
+H8        H   0.52231     0.44211     0.49969   0.00000  Uiso   1.00      0.00000
+H10        H   0.43872     0.50962     0.49983   0.00000  Uiso   1.00      0.00000
+H12        H   0.53897     0.54826     0.50064   0.00000  Uiso   1.00      0.00000
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+_ccdc_geom_bond_type
+C1    C2    1.3949627091789927    .    A
+C1    C6    1.3947053022054512    .    A
+C1   H7   1.0864012518402208    .     S
+C2    X3    1.394902835325816    .    A
+C2   H8   1.0867182891623721    .     S
+X3    C4    1.3949426941634548    .    A
+C4    X5    1.3946680752064256    .    A
+C4   H10   1.086339173554926    .     S
+X5    C6    1.3944976443149697    .    A
+C6   H12   1.0868980448965722    .     S
