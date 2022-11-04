@@ -47,6 +47,7 @@ for i in template_empty_node:
 chromosome_representations = []
 template_list = []
 template_label, node_label, edge_label = read_database()
+
 # Generate chromosome representation
 for template in templates_dict:
     template_list.append(template)
@@ -101,7 +102,6 @@ for i, k in enumerate(templates_dict):
     n_edge = len(templates_dict[k]['edge'])            
     node_info= [str(vertices[i_]) + ':' + str(labels[i_]) for i_ in range(len(labels))]
     edge_info = [str(len(labels)+i+1) + ':' + "list(range({}))".format(len(edge_label)) for i in range(n_edge)]
-    #print(str(t_label),':{',"0:list(range({})),".format(len(template_label)), ','.join(node_info), ',',  ','.join(edge_info),'}')
     with open('template_params.py', 'a') as f:
         f.write("{}: {{0:list(range({})), {}, {} }},\n".format(t_label, len(template_label), ','.join(node_info), ','.join(edge_info)))
 with open('template_params.py', 'a') as f:
