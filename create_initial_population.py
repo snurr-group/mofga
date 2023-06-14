@@ -6,8 +6,16 @@ from generate_cif_from_chromosome import *
 import random
 import os
 import subprocess
+
 def create_initial_population(bb_options, size, output_dir, tobacco_path, lhs_optimized='maximin', data_fname='data', create_MOF=True, template_info=None, tobacco_output=True, preconstruct_file=None):
-    """ Only allow initial population for chromosomes with the same size """
+    """ Create initial population for GA using modified lhs sampling
+    
+    Parameters:
+        bb_options:
+        
+    """
+
+    #Todo: Only allow initial population for chromosomes with the same size
 
     def _create_a_random_chromosome(templates, bb_options):
         """ Create a random chromosome from building block options and a list of template """
